@@ -1,11 +1,18 @@
-## Hi there, I'm Thiago 👋
+```python
+# ./thiago_volpi_rabethge.py
 
-Web developer with two years of experience in React and Node.js, open-source enthusiast, and always eager to learn.
+about_me = {
+  "open_to_work": True,
+  "experience": ["Trainee at Joinville's City Hall", "2 years", "07/2022 - 07/2024"],
+  "worked_at_projects": ["schedule_system", "GSEC"],
+  "hobbie_projects": ["Community Store", "Antarctic Boilerplate", "TapeTime"],
+  "working_on": "a self-managed software development and society",
+  "beloved": ["ducks", "movies", "R&B", "Philosophy", "How to design your code"],
+  "focus": ["code conventions", "user experience"]
+}
 
-- 🔭 I’m currently working on my personal projects
-
-- 🌱 I’m currently learning python
-
-- 💬 Ask me about how to beautify your code
-
-- 📫 How to reach me: thiago.rabethge@gmail.com
+skills = {
+  "programming_languages": ["JavaScript", "Python", "PHP", "SQL"],
+  "tools": ["Node.js", "Express.js", "Sequelize", "FastApi", "SQLModel", "React", "Next.js"]
+}
+```
