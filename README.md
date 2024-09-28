@@ -13,6 +13,6 @@ about_me = {
 
 skills = {
   "programming_languages": ["JavaScript", "Python", "PHP", "SQL"],
-  "tools": ["Node.js", "Express.js", "Sequelize", "FastApi", "SQLModel", "React", "Next.js"]
+  "tools": ["TypeScript", "Node.js", "Express.js", "Sequelize", "FastApi", "SQLModel", "React", "Next.js"]
 }
 ```
